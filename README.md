@@ -4,8 +4,8 @@
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+(React+%2B+Spring)+Developer>)](https://git.io/typing-svg)
 
--   🌱 I’m currently learning everything 🤣
--   🥅 2022 Goals: Deepening my knowledge in React and Spring
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Deepening my knowledge in React and Spring
 
 ### Languages and Tools :
 
@@ -27,10 +27,10 @@
 <img align="left" src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" alt="webstorm" width="30px" style="padding-right:10px;"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="30px" style="padding-right:10px;"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" alt="subversion" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/d2553e6a8b07578c156ddd9dee854029e67325a6/logo-mark.svg" alt="postman" width="30px" style="padding-right:10px;"/>
 
+<br />
 <br />
 <br />
 
@@ -38,4 +38,4 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://github.com/IvanILnitskyi13)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ilnitskyi)
